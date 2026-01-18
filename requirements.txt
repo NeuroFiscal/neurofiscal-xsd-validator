@@ -1,0 +1,4 @@
+fastapi==0.110.0
+uvicorn[standard]==0.29.0
+lxml==5.1.0
+httpx==0.27.2
